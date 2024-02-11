@@ -1,6 +1,6 @@
 # Example for testing the softmax mimicry feature map
 import torch
-from softmax_mimicry_feature_map import SpikyMLPFeatureMap, attention_weight_distillation_loss
+from source.softmax_mimicry_feature_map import SpikyMLPFeatureMap, attention_weight_distillation_loss
 
 if __name__ == "__main__":
     # Assume some dimensions for input and output
