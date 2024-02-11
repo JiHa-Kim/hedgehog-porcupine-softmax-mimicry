@@ -15,6 +15,7 @@ Try running example.py
 
 # Architecture
 
+
 # Todo
 
 
@@ -22,3 +23,11 @@ Try running example.py
 Apache 2.0
 
 # Citations
+@misc{zhang2024hedgehog,
+      title={The Hedgehog & the Porcupine: Expressive Linear Attentions with Softmax Mimicry}, 
+      author={Michael Zhang and Kush Bhatia and Hermann Kumbong and Christopher Ré},
+      year={2024},
+      eprint={2402.04347},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
