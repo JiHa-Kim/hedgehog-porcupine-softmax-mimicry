@@ -1,19 +1,17 @@
 [![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
 
-# Paper-Implementation-Template
-A simple reproducible template to implement AI research papers 
+# Hedgehog-Porcupine-Feature-Map
+Code implementation in PyTorch of the paper "The Hedgehog &amp; the Porcupine: Expressive Linear Attentions with Softmax Mimicry"
 
 Paper Link
+https://arxiv.org/abs/2402.04347
 
 # Appreciation
 * Lucidrains
-* Agorians
-
-
-
-# Install
+* Agora Research
 
 # Usage
+Try running example.py
 
 # Architecture
 
@@ -21,7 +19,6 @@ Paper Link
 
 
 # License
-MIT
+Apache 2.0
 
 # Citations
-
