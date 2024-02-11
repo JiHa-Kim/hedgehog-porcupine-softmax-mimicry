@@ -1,7 +1,7 @@
 # Main implementation of the feature map used in the softmax mimicry
 import torch
-import torch.nn as nn
-import torch.nn.functional as F
+from torch import nn
+from torch.nn import functional as F
 
 class SpikyMLPFeatureMap(nn.Module):
     """
